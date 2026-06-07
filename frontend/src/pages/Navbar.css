@@ -1,0 +1,22 @@
+.container{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(22, 166, 233);
+    padding: 20px;
+}
+.List{
+    list-style : none;
+}
+.Link{
+    text-decoration:none ;
+    background-color: rgb(181, 211, 211);
+    padding: 10px;
+    color: rgb(7, 52, 110);
+    border-radius: 10px;
+
+}
+.Link:hover{
+    color: whitesmoke;
+    background-color: goldenrod;
+    cursor:pointer
+}
